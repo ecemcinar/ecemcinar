@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecemcinar&show_icons=true&locale=en" alt="ecemcinar" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ecemcinar&hide_border=true&fire=6C5175&currStreakNum=897180&ring=D1BDDD&sideNums=AF8CDD&currStreakLabel=AF8CDD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ecemcinar&fire=6C5175&currStreakNum=897180&ring=D1BDDD&sideNums=AF8CDD&currStreakLabel=AF8CDD)](https://git.io/streak-stats)
