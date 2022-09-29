@@ -1,9 +1,3 @@
-
-<!--
-**ecemcinar/ecemcinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Ecem</h1>
 - 🌱 I’m currently learning **Android Development**
 
@@ -22,5 +16,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecemcinar&show_icons=true&locale=en" alt="ecemcinar" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ecemcinar&theme=tokyonight_duo&hide_border=true&currStreakNum=DDB1DD&currStreakLabel=DDB1DD&dates=764889&fire=DDB1DD&sideNums=837DBC&ring=A886A8&sideLabels=636077)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecemcinar&" alt="ecemcinar" /></p>
