@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ecem</h1>
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ecemcinar?tab=repositories](https://github.com/ecemcinar?tab=repositories)
 
